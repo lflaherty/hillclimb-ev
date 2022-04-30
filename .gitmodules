@@ -1,24 +1,24 @@
 [submodule "firmware/system-lib"]
 	path = firmware/system-lib
-	url = https://github.com/lflaherty/evfirmware-lib.git
+	url = git@github.com:lflaherty/evfirmware-lib.git
 [submodule "tools/ecu-config"]
 	path = tools/ecu-config
-	url = https://github.com/lflaherty/evEcuConfig.git
+	url = git@github.com:lflaherty/evEcuConfig.git
 [submodule "sim/powertrain-sim"]
 	path = sim/powertrain-sim
-	url = https://github.com/lflaherty/evsimulation.git
+	url = git@github.com:lflaherty/evsimulation.git
 [submodule "firmware/control-lib"]
 	path = firmware/control-lib
-	url = https://github.com/lflaherty/evcontrol-lib.git
+	url = git@github.com:lflaherty/evcontrol-lib.git
 [submodule "sim/hardware-sim"]
 	path = sim/hardware-sim
-	url = https://github.com/lflaherty/evhardwaresim.git
+	url = git@github.com:lflaherty/evhardwaresim.git
 [submodule "firmware/vcu"]
 	path = firmware/vcu
-	url = https://github.com/lflaherty/evfirmware-vcu.git
+	url = git@github.com:lflaherty/evfirmware-vcu.git
 [submodule "firmware/vcu-proto"]
 	path = firmware/vcu-proto
-	url = https://github.com/lflaherty/evfirmware-vcu-proto.git
+	url = git@github.com:lflaherty/evfirmware-vcu-proto.git
 [submodule "firmware/inverter-proto"]
 	path = firmware/inverter-proto
-	url = https://github.com/lflaherty/evfirmware-inverter-proto.git
+	url = git@github.com:lflaherty/evfirmware-inverter-proto.git
