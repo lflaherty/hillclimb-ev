@@ -20,7 +20,7 @@ This project uses submodules. Make sure you fetch submodules when you clone and 
   * `system-lib` Common system firmware library. Code common to all STM32 microcontroller targets.
 * `hardware` Hardware designs for custom hardware used in the vehicle
 * `sim` Simulations (SIL and HIL) used to evalute the vehicle.
-  * `powertrain_model` Simulink physical simulation of powertrain. SIL evaluation of inverter control firmware.
-  * `hardwaresim` Embedded code to run on a BeagleBone to create a HIL environment for ECU hardware.
+  * `powertrain-sim` Simulink physical simulation of powertrain. SIL evaluation of inverter control firmware.
+  * `hardware-sim` Embedded code to run on a BeagleBone to create a HIL environment for ECU hardware.
 * `tools` Custom tools used for the vehicle.
   * `ecu-config` GUI tool for viewing and configuring ECU data over RS232.
