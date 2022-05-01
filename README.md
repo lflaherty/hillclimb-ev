@@ -24,3 +24,4 @@ This project uses submodules. Make sure you fetch submodules when you clone and 
   * `hardware-sim` Embedded code to run on a BeagleBone to create a HIL environment for ECU hardware.
 * `tools` Custom tools used for the vehicle.
   * `ecu-config` GUI tool for viewing and configuring ECU data over RS232.
+* `third_party` Third party repos.
