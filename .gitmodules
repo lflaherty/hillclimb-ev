@@ -25,3 +25,5 @@
 [submodule "third_party/Unity"]
 	path = third_party/Unity
 	url = https://github.com/ThrowTheSwitch/Unity.git
+[submoule "firmware/system-lib"]
+	branch = master
