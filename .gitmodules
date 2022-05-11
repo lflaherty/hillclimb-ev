@@ -16,7 +16,6 @@
 [submodule "firmware/vcu"]
 	path = firmware/vcu
 	url = git@github.com:lflaherty/evfirmware-vcu.git
-	branch = master
 [submodule "firmware/vcu-proto"]
 	path = firmware/vcu-proto
 	url = git@github.com:lflaherty/evfirmware-vcu-proto.git
