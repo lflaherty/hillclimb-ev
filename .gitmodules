@@ -16,6 +16,7 @@
 [submodule "firmware/vcu"]
 	path = firmware/vcu
 	url = git@github.com:lflaherty/evfirmware-vcu.git
+	branch = master
 [submodule "firmware/vcu-proto"]
 	path = firmware/vcu-proto
 	url = git@github.com:lflaherty/evfirmware-vcu-proto.git
@@ -25,5 +26,3 @@
 [submodule "third_party/Unity"]
 	path = third_party/Unity
 	url = https://github.com/ThrowTheSwitch/Unity.git
-[submoule "firmware/system-lib"]
-	branch = master
