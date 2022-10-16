@@ -25,3 +25,15 @@ This project uses submodules. Make sure you fetch submodules when you clone and 
 * `tools` Custom tools used for the vehicle.
   * `ecu-config` GUI tool for viewing and configuring ECU data over RS232.
 * `third_party` Third party repos.
+
+## Revisions
+
+Upon testing milestones, the main `hillclimb-ev` repo will be tagged with a revision number, and a corresponding target.
+
+Entries will be added here as more developements are made.
+
+### VCU
+
+| Tag | New changes | Bug fixes |
+| --- | ----------- | --------- |
+| `vcu-r1` | <ul><li>Hardware task timer</li><li>GPIO output</li><li>UART Tx and Rx with DMA</li><li>Message frame encoding</li><li>Logging to PC via debug serial</li><li>CAN bus Tx</li></ul> | _N/A_ |
