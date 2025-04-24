@@ -9,13 +9,13 @@
 	url = git@github.com:lflaherty/evsimulation.git
 [submodule "firmware/control-lib"]
 	path = firmware/control-lib
-	url = git@github.com:lflaherty/evcontrol-lib.git
+	url = git@github.com:lflaherty/motor-control.git
 [submodule "sim/hardware-sim"]
 	path = sim/hardware-sim
 	url = git@github.com:lflaherty/evhardwaresim.git
 [submodule "firmware/vcu"]
 	path = firmware/vcu
-	url = git@github.com:lflaherty/evfirmware-vcu.git
+	url = git@github.com:lflaherty/ev-ecu.git
 [submodule "firmware/vcu-proto"]
 	path = firmware/vcu-proto
 	url = git@github.com:lflaherty/evfirmware-vcu-proto.git
